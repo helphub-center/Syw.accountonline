@@ -7,8 +7,8 @@ Includes login steps, quick fixes, password reset help, account unlock guide, an
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="#" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Login to Syw.accountonline.com
+        <a href="https://link72.com/?1QC8rUorjz4Z4z2OtPXz3XzH93fxeaMqpEnbWd8B4dGB1QKl1rgVoGSu5ojzf8MLWFzaMVtUaoTXiuOavrXg" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Login Now
         </a>
     </div>
 
@@ -92,13 +92,13 @@ Most login issues can be fixed quickly with simple checks, password resets, or c
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="#" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Login Now
+        <a href="https://link72.com/?1QC8rUorjz4Z4z2OtPXz3XzH93fxeaMqpEnbWd8B4dGB1QKl1rgVoGSu5ojzf8MLWFzaMVtUaoTXiuOavrXg" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Click To Continue
         </a>
-        <a href="#" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?1QC8rUorjz4Z4z2OtPXz3XzH93fxeaMqpEnbWd8B4dGB1QKl1rgVoGSu5ojzf8MLWFzaMVtUaoTXiuOavrXg" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Password
         </a>
-        <a href="#" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?1QC8rUorjz4Z4z2OtPXz3XzH93fxeaMqpEnbWd8B4dGB1QKl1rgVoGSu5ojzf8MLWFzaMVtUaoTXiuOavrXg" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Unlock My Account
         </a>
     </div>
